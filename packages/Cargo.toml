@@ -11,3 +11,6 @@ members = [
     "whisky",
     "whisky-examples"
 ]
+
+[patch.crates-io]
+cardano-serialization-lib = { git = "https://github.com/imikushin/cardano-serialization-lib", branch = "update-wasm-bindgen" }
