@@ -38,7 +38,7 @@ uplc = "=1.1.9"
 wasm-bindgen = { version = "0.2.100", features = ["serde-serialize"] }
 rand_os = { version = "0.1", features = ["wasm-bindgen"] }
 js-sys = "0.3.77"
-wasm-bindgen-futures = "=0.4.34"
+wasm-bindgen-futures = "0.4.50"
 pallas-codec = { version = "0.31.0", features = ["num-bigint"] }
 pallas-primitives = "0.31.0"
 pallas-traverse = "0.31.0"
